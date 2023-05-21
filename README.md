@@ -1,4 +1,4 @@
-# vue3__parallax
+#Vue3__Parallax
 
 ## Project setup
 ```
